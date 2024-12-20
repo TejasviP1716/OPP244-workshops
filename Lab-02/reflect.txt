@@ -1,0 +1,10 @@
+/***************************************
+Name - Tejasvi Parmar
+student id - 151236239
+email - tnparmar2@myseneca.ca
+section - ZAA
+
+******************************************/
+
+
+After finishing this workshop, I have a better understanding of dynamic memory allocation (DMA), function overloading, and working with compound types, among other important programming concepts. My understanding of the significance of error handling and input validation has grown as a result of implementing the overloaded getInt functions. During the DMA exercise, I developed a function to reverse an array of double values, which helped me to better understand memory management and how important it is to allocate and deallocate memory correctly to prevent leaks. Using the Contact structure and putting functions in place to work with its data gave me important insights into working with compound data types and the value of modular programming. Ensuring the input validation logic was both robust and user-friendly posed a challenge for me.In order to avoid memory leaks, managing dynamic memory allocation also required close attention to detail. All in all, this workshop has improved my ability to solve problems and strengthened my understanding of these core programming ideas.
