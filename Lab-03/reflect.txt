@@ -1,0 +1,11 @@
+
+/***************************************
+Name - Tejasvi Parmar
+student id - 151236239
+email - tnparmar2@myseneca.ca
+section - ZAA
+
+******************************************/
+
+
+Answer - The workshop has enhanced my understanding of object-oriented programming in C++. Therefore, I have listened properly to every word related to class CC containing Credit Card Information. Effective ideas include constructors and destructors, encapsulation, getters, setters, dynamic memory allocation, error handling, and formatting. Needless to say, comprehension regarding subtleties in dynamic memory allocation and deallocation was hard. But I could understand memory management in C++ better by paying close attention to the alocpy() function calling and cleanUp() method. Also, how to correctly validate user's input, ensure data integrity with techniques such as validate, and display data in the display method using formatting techniques. One of the challenges I had was to ensure that memory was handled correctly, so that memory leaks would not occur; this called for close monitoring of the resources allocated. Another hurdle was that it took a number of tries to format output with width and alignment using count and get the look I wanted. The workshop really drove home good object-oriented programming habits by emphasizing how important encapsulation and data hiding were when specifying classes. All in all, this experience made me a better coder and taught me some important stuff about building sound applications.
