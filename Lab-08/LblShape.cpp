@@ -1,8 +1,7 @@
 /**************************************************
 
   Name- Tejasvi Nitinkumar Parmar
-  student id- 151236239
-  Email- tnparmar2@myseneca.ca
+
   section- ZAA
   Date- 22/11/2024
 
