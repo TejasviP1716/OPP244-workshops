@@ -1,0 +1,17 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+  Date- 16/10/2024
+
+***************************************************/
+
+
+
+Answer -  I developed a deeper comprehension of a number of fundamental programming concepts as a result of this workshop. Exploring object-oriented programming concepts like inheritance, dynamic memory management, and polymorphism was made possible by my work on the Professor class. I found it especially useful that derived classes could now have customized functionality thanks to overriding member functions like write and read. It was initially difficult to format output in write using manipulators like setf, width, and precision because the desired output structure needed careful alignment. I gained proficiency with these tools during this process. Because of the possibility of memory leaks, dynamic memory management presented challenges. The significance of cautious memory management was emphasized by making sure that m_subjectName was allocated and dealt with correctly using alocpy and the destructor. Last but not least, this workshop clarified for me the concept of stream input/output, which I had previously found difficult, through the implementation and testing of the overloaded >> and << operators.
+
+All things considered, this workshop strengthened my understanding of these subjects and emphasized how crucial attention to detail is when coding. I intend to continue honing these ideas in order to become more proficient.
+
+
