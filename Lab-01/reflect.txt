@@ -1,0 +1,11 @@
+
+Name - Tejasvi Parmar
+student id - 151236239
+email - tnparmar2@myseneca.ca
+section - ZAA
+
+                                                                      Reflection
+
+I developed a thorough understanding of all the concepts of object-oriented programming (OOP), such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction, throughout this training. Using Visual Studio to set up the development environment and Git to configure version control were essential stages that improved my efficiency and teamwork when coding. I gained knowledge on how to construct and maintain classes and objects, apply polymorphism and inheritance, and successfully handle errors and debugging. File handling was another important topic to grasp, especially when dealing with.dat files.
+
+One difficulty I encountered was opening.dat files were a problem at first, but I was able to fix it by finding the right program and making sure the files weren't corrupted. Additionally, disregard the single definition rule that, when I was debugging, showed me an error. Aside from that, using Visual Studio's debugging tools to troubleshoot complicated code was a valuable learning experience. I developed my ability to step through code, watch variables, and use breakpoints, all of which helped me solve problems methodically.
