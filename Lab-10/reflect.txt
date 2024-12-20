@@ -1,0 +1,12 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+
+***************************************************/
+
+
+Answer- I gained a better understanding of dynamic memory management—more especially, the safe copying of arrays using C++ templates—by finishing this workshop. Writing effective, scalable, and modular code was highlighted by the emphasis on developing reusable functions like dynaCopy. Through the use of template-based solutions, I also learned how flexible templates are in managing different kinds of data while reducing code redundancy.Properly managing dynamic memory to prevent memory leaks or segmentation errors was one of the difficulties I encountered. In order to prevent resource mismanagement, it was especially difficult but essential to make sure that the previous memory block was erased before allocating new memory in the overloaded dynaCopy function. Additionally, I refined my debugging skills by resolving issues related to pointer arithmetic and ensuring proper array bounds.
+Important ideas that are essential to professional software development, such as dynamic memory, template programming, and effective resource management, were reaffirmed in this workshop.
