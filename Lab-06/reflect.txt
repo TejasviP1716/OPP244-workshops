@@ -1,0 +1,20 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+  Date- 11/10/2024
+
+***************************************************/
+
+
+
+Answer - I now have a better understanding of a number of C++ concepts after finishing this workshop, particularly those related to file I/O, operator overloading, dynamic memory management, and encapsulation. Working on the Numbers class served to emphasize how crucial it is to manage resources carefully, especially when utilizing dynamic arrays, which need to be properly allocated and deallocated to avoid memory leaks. In order to guarantee that memory was managed appropriately, especially when arrays were cleaned up using the delete[] operator, the destructor and constructors were crucial.
+Implementing deep copying in the copy constructor and assignment operator was one of the trickiest aspects. I discovered how to ensure that every Numbers instance maintains its own copy of data by explicitly defining these methods, as opposed to inadvertently sharing resources, which could result in unexpected behaviors or crashes.
+
+I gained hands-on experience implementing algorithms and comprehending time complexity considerations by sorting the array using the sort method. Through private member functions like setEmpty and setFilename, which supported data consistency and the clear division of class responsibilities, I also gained a deeper understanding of encapsulation.
+Another new and somewhat difficult area was file handling. To ensure robustness, extra checks were needed when reading from a file and storing values in an array while managing edge cases like empty or incomplete files. A practical application of file I/O and error handling was made possible by the load and save functions.
+
+In conclusion, this workshop strengthened my grasp of the foundational ideas of C++ and demonstrated to me the value of resource management, reliable error handling, and the application of encapsulation to produce clear, maintainable code.
+
