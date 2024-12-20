@@ -1,0 +1,29 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+  Date- 11/10/2024
+
+***************************************************/
+
+
+
+
+Answer - I've learned a number of important ideas about operator overloading in C++ and object-oriented programming from this workshop. The workshop specifically addressed the following subjects:
+
+1.Constructors and Initialization: I gained knowledge on how to initialize objects using constructors, making sure they are in a useful state before usage.
+
+2. Operator Overloading: I learned how to work with user-defined types like `Account} by overloading operators such as `+}, {+=}, {>>}, `<<}, and comparison operators. This facilitates the writing of readable and intuitive code.
+
+3.Overloading Type Conversion Operators**: In order to enable implicit or explicit conversion of objects to primitive data types, like integers and doubles, the workshop covered how to overload type conversion operators.
+
+4.Account Management: Real-world applications of these ideas were demonstrated with a practical example of managing accounts using C++ classes and member functions.
+
+Difficulties: One of the difficulties I encountered was comprehending the nuances of operator overloading, especially in relation to pointers and object references. Understanding how operator overloading could impact an object's internal state and guarantee that no data is lost during assignments and transfers took some time.
+
+All things considered, the workshop deepened my comprehension of C++'s advanced object-oriented features and sharpened my problem-solving abilities when creating unique data types.
+
+
+
