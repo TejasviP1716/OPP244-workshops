@@ -1,0 +1,12 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+  Date- 04/10/2024
+
+***************************************************/
+
+
+Answer - This workshop has deepened my understanding of object-oriented C++ programming. I picked up quite a few concepts on the use of member functions, encapsulation, and the design of classes. The concepts have been explained better with constructors and destructors, and with the multiple member functions of the Canister class. Memory management was one area that was particularly tricky while trying to apply alocpy and freeMem. Although I knew that those functions were necessary, the main roles of memory allocation and deallocation, respectively, I could still hardly ensure the right management of the memory in every context. In fact, avoiding errors or memory leaks entailed an understanding of the subtleties that surround memory allocation and deallocation. All in all, this workshop has been really helpful, and I'm positive my C++ programming skills have soared. I look forward to using the Canister class as a strong basis for my next efforts, and to applying these concepts to more challenging programming problems.
