@@ -1,0 +1,33 @@
+Script started on Wed 06 Nov 2024 08:39:34 PM EST
+==169589== Memcheck, a memory error detector
+==169589== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==169589== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==169589== Command: ws.exe
+==169589== 
+??????????
+This is an invalid MenuItem
+The Menu Item
+   0- The Menu Item
+       1- The Menu Item
+             2- The Menu Item
+??????????
+ 4- The Menu Item
+   5- The Menu Item
+       6- The Menu Item
+             7- The Menu Item
+??????????
+ 9- The Menu Item
+  10- The Menu Item
+      11- The Menu Item
+            12- The Menu Item
+??????????
+==169589== 
+==169589== HEAP SUMMARY:
+==169589==     in use at exit: 0 bytes in 0 blocks
+==169589==   total heap usage: 16 allocs, 16 frees, 73,004 bytes allocated
+==169589== 
+==169589== All heap blocks were freed -- no leaks are possible
+==169589== 
+==169589== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Wed 06 Nov 2024 08:39:35 PM EST
