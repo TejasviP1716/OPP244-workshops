@@ -1,0 +1,13 @@
+/**************************************************
+
+  Name- Tejasvi Nitinkumar Parmar
+  student id- 151236239
+  Email- tnparmar2@myseneca.ca
+  section- ZAA
+
+***************************************************/
+
+
+Answer-I investigated the Transcript module in Workshop 9, concentrating on using object-oriented programming (OOP) concepts to manage student transcripts. Constructors, destructors, copy constructors, and assignment operators—all essential for efficient memory management in C++—were among the main subjects discussed. Dynamic memory allocation and deallocation were necessary for the implementation, highlighting how crucial the alocpy tool is for securely copying C-style strings.Additionally, by increasing functionality and allowing code reuse by deriving Transcript from Marks, I strengthened inheritance notions. Encapsulation was guaranteed by the appropriate use of access specifiers, and the complexities of deep copying to stop resource leaks were brought to light by overloading operators like =.
+
+The most challenging aspect was managing dynamic memory while adhering to the Rule of Three, which required implementing all three (copy constructor, assignment operator, and destructor) correctly. Debugging memory issues and ensuring a seamless integration between Transcript and Marks helped me improve my problem-solving and debugging skills.My comprehension of OOP concepts and dynamic memory management in C++ was strengthened by this workshop.
