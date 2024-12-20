@@ -1,0 +1,31 @@
+Script started on Sat 23 Nov 2024 12:25:50 AM EST
+==57957== Memcheck, a memory error detector
+==57957== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==57957== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==57957== Command: ws.exe
+==57957== 
+Stage 1: Testing two-argument dynaCopy
+Printing integer array with prnArray:
+10, 20, 30, 40
+Printing Name array with prnArray:
+David, Zari, Lucas, Mary
+
+Stage 2: Testing three-argument dynaCopy
+Printing updated integer array with prnArray:
+60, 70, 80, 90, 100
+Printing updated Name array with prnArray:
+Homer, Bart, Lisa, Marge, Maggie
+
+Stage 3: Edge case testing
+Single integer array:
+42
+==57957== 
+==57957== HEAP SUMMARY:
+==57957==     in use at exit: 0 bytes in 0 blocks
+==57957==   total heap usage: 24 allocs, 24 frees, 73,006 bytes allocated
+==57957== 
+==57957== All heap blocks were freed -- no leaks are possible
+==57957== 
+==57957== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Sat 23 Nov 2024 12:25:51 AM EST
