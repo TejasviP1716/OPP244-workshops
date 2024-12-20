@@ -1,0 +1,87 @@
+Script started on Mon 11 Nov 2024 04:59:02 PM EST
+==203185== Memcheck, a memory error detector
+==203185== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==203185== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==203185== Command: ws.exe
+==203185== 
+Nothing should be printed between these two lines
+------------------------------------
+------------------------------------
+Rectangle size correction:
++--------+
+|Bas Size|
++--------+
+Separator
+==================================================
++----------------------------+
+|Container                   |
+|                            |
+|                            |
++----------------------------+
+Enter the following:
+>Line two,40<ETNER>
+>Line two,40
+The following outputs should be the same
+The correct output:
+Line two
+========================================
+Your output:
+Line two
+========================================
+Enter the following:
+>A 50 by 4 frame to be printed on screen,50,4<ETNER>
+>A 50 by 4 frame to be printed on screen,50,4
+The following outputs should be the same
+The correct output:
++------------------------------------------------+
+| A 50 by 4 frame to be printed on screen        |
+|                                                |
++------------------------------------------------+
+Your output:
++------------------------------------------------+
+|A 50 by 4 frame to be printed on screen         |
+|                                                |
++------------------------------------------------+
+printing Line and Rectangle using Shape pointers: 
+Line two
+========================================
++------------------------------------------------+
+|A 50 by 4 frame to be printed on screen         |
+|                                                |
++------------------------------------------------+
+Reading the data from a file to check your
+insertion and extraction helpers
+line one
+==========
+line two
+==============================
+line three
+==================================================
+line four
+======================================================================
++-------------+
+|Step four    |
+|             |
++-------------+
++-----------------------+
+|Step three             |
+|                       |
++-----------------------+
++---------------------------------+
+|Step two                         |
+|                                 |
++---------------------------------+
++-------------------------------------------+
+|Step one                                   |
+|                                           |
++-------------------------------------------+
+==203185== 
+==203185== HEAP SUMMARY:
+==203185==     in use at exit: 0 bytes in 0 blocks
+==203185==   total heap usage: 26 allocs, 26 frees, 81,860 bytes allocated
+==203185== 
+==203185== All heap blocks were freed -- no leaks are possible
+==203185== 
+==203185== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Mon 11 Nov 2024 04:59:15 PM EST
