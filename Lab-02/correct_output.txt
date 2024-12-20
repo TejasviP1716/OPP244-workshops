@@ -1,0 +1,84 @@
+Script started on Tue 03 Sep 2024 10:35:15 PM EDT
+==138081== Memcheck, a memory error detector
+==138081== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==138081== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==138081== Command: ws.exe
+==138081== 
+Testing getInt functions:
+
+Eneter the following:
+2
+6
+3
+Enter an integer:
+> 2
+Invalid value, [3<ENTRY<5]
+> 6
+Invalid value, [3<ENTRY<5]
+> 3
+You entered: 3
+
+Enter the following:
+abc
+4
+> abc
+Bad integer entry, please try again:
+> 4
+You entered: 4
+
+Enter the follwing:
+abc
+2
+6
+4
+Enter another integer:
+> abc
+Bad integer entry, please try again:
+> 2
+Only enter values between 3 and 5, inclusive:
+> 6
+Only enter values between 3 and 5, inclusive:
+> 4
+You entered: 4
+*********************************
+Enter the following:
+5
+1.1
+2.2
+3.3
+4.4
+5.5
+Enter the number of double values:
+> 5
+1> 1.1
+2> 2.2
+3> 3.3
+4> 4.4
+5> 5.5
+5.5
+4.4
+3.3
+2.2
+1.1
+*********************************
+Enter the following:
+John
+Doe
+4412345123456
+
+Name: John
+Last name: Doe
+Phone number: 4412345123456
+John Doe, +4412345123456
+ , +0
+*********************************
+==138081== 
+==138081== HEAP SUMMARY:
+==138081==     in use at exit: 0 bytes in 0 blocks
+==138081==   total heap usage: 8 allocs, 8 frees, 73,093 bytes allocated
+==138081== 
+==138081== All heap blocks were freed -- no leaks are possible
+==138081== 
+==138081== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Tue 03 Sep 2024 10:35:59 PM EDT
