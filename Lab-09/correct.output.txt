@@ -1,0 +1,45 @@
+Script started on Fri 22 Nov 2024 03:44:10 PM EST
+==179901== Memcheck, a memory error detector
+==179901== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==179901== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==179901== Command: ws.exe
+==179901== 
+Displaying T1 and T2 Transcripts:
+****************************************************************************
+John Doe (111456789)
+--------------------------------------------------------------------------
+DBS211: Introduction to Database Systems                               77
+OOP244: Introduction to Object-Oriented Programming                    85
+SFT221: Software Testing                                               55
+WEB222: Web Programming Principles                                     70
+EAC234: Science Fiction                                                90
+****************************************************************************
+****************************************************************************
+Jane Doe (122456789)
+--------------------------------------------------------------------------
+DBS211: Introduction to Database Systems                               90
+OOP244: Introduction to Object-Oriented Programming                    60
+SFT221: Software Testing                                               80
+WEB222: Web Programming Principles                                     75
+EAC234: Science Fiction                                                85
+****************************************************************************
+Testing Assignment Operator (T1 = T2):
+****************************************************************************
+Jane Doe (122456789)
+--------------------------------------------------------------------------
+DBS211: Introduction to Database Systems                               90
+OOP244: Introduction to Object-Oriented Programming                    60
+SFT221: Software Testing                                               80
+WEB222: Web Programming Principles                                     75
+EAC234: Science Fiction                                                85
+****************************************************************************
+==179901== 
+==179901== HEAP SUMMARY:
+==179901==     in use at exit: 0 bytes in 0 blocks
+==179901==   total heap usage: 127 allocs, 127 frees, 78,650 bytes allocated
+==179901== 
+==179901== All heap blocks were freed -- no leaks are possible
+==179901== 
+==179901== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Fri 22 Nov 2024 03:44:11 PM EST
