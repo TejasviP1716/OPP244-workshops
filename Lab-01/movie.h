@@ -1,7 +1,6 @@
   /***************************************
 Name - Tejasvi Parmar
-student id - 151236239
-email - tnparmar2@myseneca.ca 
+
 section - ZAA
 
 ******************************************/
